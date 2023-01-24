@@ -1,0 +1,13 @@
+<Defs>
+    <CharacterDef>
+        <defName>Slime</defName>
+        <name>Slime</name>
+        <class>GeneralCharacter</class>
+        <description>This is Slime</description>
+        <sprite>
+            <ch>S</ch>
+        </sprite>
+        <hp>10</hp>
+        <power>3</power>
+    </CharacterDef>
+</Defs>
